@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there 🥮:
 🗞️Machine learning X web app production aspirant <br>🚀I'm currently pursuing a degree in info-tech<br>🌠Looking to collaborate on projects<br>🔮Currently learning MLOps<br>ℹ️Open to talk about web app production & deployments.<br>🚧Focused | Smarter | Faster
 
 
