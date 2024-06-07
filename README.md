@@ -10,13 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🗞️Machine learning X web app production aspirant <br>🚀I'm currently pursuing a degree in info-tech<br>🌠Looking to collaborate on projects<br>🔮Currently learning MLOps<br>ℹ️Open to talk about web app production & deployments.<br>
 
  </div>
  
