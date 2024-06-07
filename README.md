@@ -1,11 +1,12 @@
-# 💫 Hello There👋🏻 :
+# 💫 Hello There👋🏻 
+
 🗞️Machine learning X web app production aspirant <br>🚀I'm currently pursuing a degree in info-tech<br>🌠Looking to collaborate on projects<br>🔮Currently learning MLOps<br>ℹ️Open to talk about web app production & deployments.<br>🚧Focused | Smarter | Faster
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prithiv-sakthi-u-r-b85842250) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@prithivsakthi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@prithiv_003) 
 
-
+<p align="center"><img src="https://profile-counter.glitch.me/{PRITHIVSAKTHIUR}/count.svg" alt="PRITHIVSAKTHIUR :: Visitor's Count" /></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRITHIVSAKTHIUR/PRITHIVSAKTHIUR/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRITHIVSAKTHIUR/PRITHIVSAKTHIUR/output/github-contribution-grid-snake.svg">
