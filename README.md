@@ -4,7 +4,7 @@
 
 🗞️Machine learning X web app production aspirant <br>🚀I'm currently pursuing a degree in info-tech<br>🌠Looking to collaborate on projects<br>🔮Currently learning MLOps<br>ℹ️Open to talk about web app production & deployments.<br>🚧Focused | Smarter | Faster
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 
 # Professional Connect
