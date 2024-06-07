@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PRITHIVSAKTHIUR&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITHIVSAKTHIUR&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+#Snake
+![snake gif](https://github.com/PRITHIVSAKTHIUR/PRITHIVSAKTHIUR/blob/output/github-contribution-grid-snake.gif)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PRITHIVSAKTHIUR&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
 
