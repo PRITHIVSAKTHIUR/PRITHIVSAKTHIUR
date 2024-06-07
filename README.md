@@ -1,6 +1,4 @@
-###
-<h1 align="left">Hey 👋 What's up?</h1>
-###
+# Hey 👋 What's up?
 
 🗞️Machine learning X web app production aspirant <br>🚀I'm currently pursuing a degree in info-tech<br>🌠Looking to collaborate on projects<br>🔮Currently learning MLOps<br>ℹ️Open to talk about web app production & deployments.<br>🚧Focused | Smarter | Faster
 
