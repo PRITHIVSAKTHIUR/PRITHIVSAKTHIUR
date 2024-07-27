@@ -45,11 +45,8 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=prithivsakthiur&show_icons=true&theme=vision-friendly-dark">
-  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithivsakthiur&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITHIVSAKTHIUR&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
-
-
-# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=PRITHIVSAKTHIUR&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PRITHIVSAKTHIUR&theme=default&hide_border=false)<br/>
