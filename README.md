@@ -45,7 +45,7 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=prithivsakthiur&show_icons=true&theme=vision-friendly-dark">
-  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITHIVSAKTHIUR&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITHIVSAKTHIUR&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=PRITHIVSAKTHIUR&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
