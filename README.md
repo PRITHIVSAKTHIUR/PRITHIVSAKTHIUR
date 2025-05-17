@@ -2,7 +2,7 @@
 
 <img align="right" height="150" src="https://huggingface.co/spaces/prithivMLmods/Top-Prompt-Collection/resolve/main/cc.gif"  />
 
-🎓 Bachelor of Technology in Information Technology [UG2024]<br>🗞️Machine learning X web app production aspirant <br>🌠Looking to collaborate on projects<br>🔮Currently focused on LLM, MLOps, Pipelines, API {Endpoints}<br>ℹ️Open to talk about AI web app production, LLM & deployments.<br>🚧Computer Vision, Multimodality
+🎓 I am a Graduate Engineer [ UG 2024 ]<br>🗞️B.Tech in Information Technology, GCEE<br>🌠Focused on working in LLM post-training.<br>🔮Improving Multimodal AI capabilities.<br>ℹ️Open to talk about AI web app production, LLM & deployments.<br>🥠Computer Vision, Multimodality 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PRITHIVSAKTHIUR&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PRITHIVSAKTHIUR" /></p>
 
