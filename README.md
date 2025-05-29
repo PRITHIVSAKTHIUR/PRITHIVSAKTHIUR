@@ -6,9 +6,6 @@ i am a graduate engineer (ug 2024), information technology, <a href='https://www
 focused on working in llm post-training and improving multimodal ai capabilities.
 </pre>
 
-
-
-
 <table>
   <tr>
     <td>
