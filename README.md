@@ -30,7 +30,7 @@ focused on working in llm training and enhancements, improving multimodal ai cap
   </tr>
 </table>
 
-# 🔬 Featured Repositories
+# 🔬 Experimental repositories
 
 | **DREX** | **Flux-LoRA-DLC** | **Camel-Doc-OCR** |
 |----------|-------------------|-------------------|
