@@ -48,3 +48,11 @@ focused on working in llm training and enhancements, improving multimodal ai cap
 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/PRITHIVSAKTHIUR/Watermark-Detection-SigLIP2) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/PRITHIVSAKTHIUR/Facial-Emotion-Detection-SigLIP2) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/PRITHIVSAKTHIUR/FineTuning-SigLIP-2) |
 | [![Model](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/prithivMLmods/Watermark-Detection-SigLIP2) | [![Model](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/prithivMLmods/Facial-Emotion-Detection-SigLIP2) | [![Blog](https://img.shields.io/badge/📖-Blog-green)](https://huggingface.co/blog/prithivMLmods/siglip2-finetune-image-classification) |
 | Vision-language model fine-tuned from SigLIP2 for binary watermark detection in images using advanced classification architecture. | Image classification model fine-tuned from SigLIP2 for facial emotion recognition with single-label classification capabilities. | Comprehensive guide for fine-tuning SigLIP 2 models for single/multi-label image classification tasks with practical examples. |
+
+## 🐢Progressing slowly, like a tortoise.
+
+| **Stranger Zone** | **Stranger Guard** |
+|-------------------|-------------------|
+| [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Stranger-Zone) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Stranger-Guard) |
+| [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/strangerzonehf) | [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/strangerguardhf) |
+| Building illustration adapters for diffusion models, The Stranger Zone specializes in intelligence development, focusing on fine-tuning models for text, image, and vision-based applications. | Stranger Guard specializes in building strict content moderation models, with a core focus on advanced computer vision tasks. Our team develops precision-driven AI systems capable of detecting, classifying, and moderating visual content at scale. |
