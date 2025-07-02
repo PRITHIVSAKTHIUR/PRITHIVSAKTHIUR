@@ -7,7 +7,7 @@ focused on working in llm training and enhancements, improving multimodal ai cap
 </pre>
 
 <details>
-  <summary>GitHub Stats & Activity</summary>
+  <summary><strong>GitHub Stats & Activity</strong></summary>
   <br/>
 
   <table>
@@ -26,13 +26,13 @@ focused on working in llm training and enhancements, improving multimodal ai cap
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/PRITHIVSAKTHIUR/github-readme-activity-graph">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRITHIVSAKTHIUR&theme=react-dark&bg_color=20232a&hide_border=true&title=Guilyx%20Activity%20Graph" alt="activity graph" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRITHIVSAKTHIUR&theme=react-dark&bg_color=20232a&hide_border=true&title=PRITHIVSAKTHIUR%20Activity%20Graph" alt="Activity Graph" />
         </a>
       </td>
     </tr>
   </table>
-
 </details>
+
 
 
 ## 🔬 Experimental repositories
