@@ -7,7 +7,7 @@ focused on working in llm training and enhancements, improving multimodal ai cap
 </pre>
 
 <details>
-  <summary><strong>𝒢𝒾𝓉𝐻𝓊𝒷 𝒮𝓉𝒶𝓉𝓈</strong></summary>
+  <summary><strong>𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</strong></summary>
   <br/>
 
   <table>
