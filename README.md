@@ -1,4 +1,5 @@
 # Hey 👋 What's up?
+
 <pre>
 hi, i am <a href='https://linktr.ee/prithivsakthi/'>prithiv</a>!
 
@@ -6,36 +7,9 @@ i am a graduate engineer [ug 2024], information technology, <a href='https://www
 focused on working in llm training and enhancements, improving multimodal ai capabilities.
 </pre>
 
-<details>
-  <summary><strong>𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</strong></summary>
-  <br/>
+---
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/PRITHIVSAKTHIUR/github-readme-streak-stats" title="Go to Source">
-          <img width="100%" src="https://streak-stats.demolab.com/?user=PRITHIVSAKTHIUR&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/PRITHIVSAKTHIUR/github-readme-stats" title="Go to Source">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=PRITHIVSAKTHIUR&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/PRITHIVSAKTHIUR/github-readme-activity-graph">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRITHIVSAKTHIUR&theme=react-dark&bg_color=20232a&hide_border=true&title=PRITHIVSAKTHIUR%20Activity%20Graph" alt="Activity Graph" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</details>
-
-
-
-## 🔬 Experimental repositories
+## Experimental repositories
 
 | **DREX** | **Flux-LoRA-DLC** | **Camel-Doc-OCR** |
 |----------|-------------------|-------------------|
@@ -49,7 +23,7 @@ focused on working in llm training and enhancements, improving multimodal ai cap
 | [![Model](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/prithivMLmods/Watermark-Detection-SigLIP2) | [![Model](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/prithivMLmods/Facial-Emotion-Detection-SigLIP2) | [![Blog](https://img.shields.io/badge/📖-Blog-green)](https://huggingface.co/blog/prithivMLmods/siglip2-finetune-image-classification) |
 | Vision-language model fine-tuned from SigLIP2 for binary watermark detection in images using advanced classification architecture. | Image classification model fine-tuned from SigLIP2 for facial emotion recognition with single-label classification capabilities. | Comprehensive guide for fine-tuning SigLIP 2 models for single/multi-label image classification tasks with practical examples. |
 
-## 🐢Progressing slowly, like a tortoise.
+## Other Pages
 
 | **Stranger Zone** | **Stranger Guard** |
 |-------------------|-------------------|
