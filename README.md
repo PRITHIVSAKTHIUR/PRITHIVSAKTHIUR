@@ -9,7 +9,7 @@ focused on working in llm training and enhancements, improving multimodal ai cap
 
 ---
 
-## Experimental repositories
+## Experimental Repositories
 
 | **DREX** | **Flux-LoRA-DLC** | **Camel-Doc-OCR** |
 |----------|-------------------|-------------------|
