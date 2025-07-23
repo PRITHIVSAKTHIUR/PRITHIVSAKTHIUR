@@ -7,8 +7,6 @@ i am a graduate engineer [ug 2024], information technology, <a href='https://www
 focused on working in llm training and enhancements, improving multimodal ai capabilities.
 </pre>
 
----
-
 ## Experimental Repositories
 
 | **DREX** | **Flux-LoRA-DLC** | **Camel-Doc-OCR** |
