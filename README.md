@@ -23,6 +23,8 @@ focused on working in llm training and enhancements, improving multimodal ai cap
 | [![Leaderboard](https://img.shields.io/badge/Rank-250-red?logo=huggingface)](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?search=prithivMLmods%2FViper-Coder-v1.1) | [![Leaderboard](https://img.shields.io/badge/Rank-132-yellow?logo=huggingface)](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?search=prithivMLmods%2FDinobot-Opus-14B-Exp) |
 | Specialized coding AI fine-tuned on synthetic datasets leveraging cutting-edge coding logits and CoT methodologies, optimizing chain-of-thought reasoning and advanced logical problem-solving for programming tasks. | High-performance abliterated model based on Qwen 2.5 architecture, engineered for superior reasoning, detailed explanations, and conversational excellence with enhanced contextual understanding and multi-step analytical capabilities. |
 
+For more, visit: [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?search=prithivMLmods)
+
 ## Other Pages
 
 | **Stranger Zone** | **Stranger Guard** |
@@ -30,4 +32,5 @@ focused on working in llm training and enhancements, improving multimodal ai cap
 | [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/strangerzonehf) | [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/strangerguardhf) |
 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Stranger-Zone) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Stranger-Guard) |
 | Building illustration adapters for diffusion models, The Stranger Zone specializes in intelligence development, focusing on fine-tuning models for computer vision ; text-to-image specialized adapters (LoRA). | Stranger Guard specializes in building strict content moderation models, with a core focus on advanced computer vision tasks. Our team develops precision-driven AI systems capable of detecting, classifying, and moderating visual content at scale. |
+
 
