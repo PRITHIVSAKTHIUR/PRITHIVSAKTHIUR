@@ -1,10 +1,10 @@
 # Hey 👋 What's up?
 
 <pre>
-hi, i am <a href='https://linktr.ee/prithivsakthi/'>prithiv</a>!
+hi, i am <a href='https://www.linkedin.com/in/prithiv-sakthi/'>prithiv</a>!
 
-i am a graduate engineer [ug 2024], information technology, <a href='https://www.gcee.ac.in/'>gcee</a>
-focused on working in llm training and enhancements, improving multimodal ai capabilities.
+i am a graduate engineer [UG 2024] in information technology from <a href='https://www.gcee.ac.in/'>gcee</a>,  
+focused on working with LLM enhancements, computer vision models, and improving multimodal AI capabilities. 
 </pre>
 
 
@@ -55,6 +55,7 @@ For more, visit: [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-y
 | [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/strangerzonehf) | [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/strangerguardhf) |
 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Stranger-Zone) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Stranger-Guard) |
 | Building illustration adapters for diffusion models, The Stranger Zone specializes in intelligence development, focusing on fine-tuning models for computer vision ; text-to-image specialized adapters (LoRA). | Stranger Guard specializes in building strict content moderation models, with a core focus on advanced computer vision tasks. Our team develops precision-driven AI systems capable of detecting, classifying, and moderating visual content at scale. |
+
 
 
 
