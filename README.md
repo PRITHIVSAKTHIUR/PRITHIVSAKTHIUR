@@ -7,7 +7,8 @@ i am a graduate engineer [UG 2024] in information technology from <a href='https
 focused on working with LLM enhancements, computer vision models, and improving multimodal AI capabilities. 
 </pre>
 
-
+<details>
+  <summary>Models and Cookbooks</summary>
 
 ## Multimodal Models
 
@@ -57,6 +58,7 @@ For more, visit: [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-y
 | Building illustration adapters for diffusion models, The Stranger Zone specializes in intelligence development, focusing on fine-tuning models for computer vision ; text-to-image specialized adapters (LoRA). | Stranger Guard specializes in building strict content moderation models, with a core focus on advanced computer vision tasks. Our team develops precision-driven AI systems capable of detecting, classifying, and moderating visual content at scale. |
 
 
+</details>
 
 
 
