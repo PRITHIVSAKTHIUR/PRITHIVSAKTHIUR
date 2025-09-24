@@ -10,7 +10,7 @@
 
 Hi, I'm a Machine Learning Engineer, Hugging Face Fellow ML 🤗, Computer Vision Enthusiast.
 
-## 💼 Projects
+## 🧳 Projects
 
 * [**FLUX-LoRA-DLC**](https://huggingface.co/spaces/prithivMLmods/FLUX-LoRA-DLC): FLUX.1-dev diffusion model with 255+ community LoRAs, 1.09K+ likes, 70K+ runs. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/image-gen-apps-diffusion-lastupdated-09-23-68a2f4c5ef3e5e394eacc20a)
 * [**Multimodal-OCR**](https://huggingface.co/spaces/prithivMLmods/Multimodal-OCR): OCR for images and videos using state-of-the-art vision-language models, 40K+ runs, 90K+ visits. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/multimodal-implementations-67c9982ea04b39f0608badb0)
@@ -18,6 +18,14 @@ Hi, I'm a Machine Learning Engineer, Hugging Face Fellow ML 🤗, Computer Visio
 * [**Qwen2.5-VL-Outpost**](https://huggingface.co/spaces/prithivMLmods/Qwen2.5-VL-Outpost): VLM for image & video understanding with multilingual support, 6.2K+ runs, 49.9K+ visits. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/multimodal-implementations-67c9982ea04b39f0608badb0)
 * [**Flux Realism**](https://huggingface.co/spaces/prithivMLmods/FLUX-REALISM): Hyper-realistic image generation with FLUX.1-dev and Super Realism LoRA, 39.5K+ runs, 127.7K+ visits. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/image-gen-apps-diffusion-lastupdated-09-23-68a2f4c5ef3e5e394eacc20a)
 * [**Nano-Banana-AIO**](https://huggingface.co/spaces/prithivMLmods/Nano-Banana-AIO): Minimalistic Gemini API app to experience Google’s NanoBanana functionalities. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/image-gen-apps-diffusion-lastupdated-09-23-68a2f4c5ef3e5e394eacc20a)
+
+## 🤗 New Models
+
+* [**Gliese-OCR-7B-Post1.0**](https://huggingface.co/prithivMLmods/Gliese-OCR-7B-Post1.0): Enhanced document retrieval, content extraction, and analysis, built on Camel-Doc-OCR-062825. Qwen2.5-VL architecture. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/gliese-post10-68c52c4a6ca4935f5259a6d7)
+* [**DeepCaption-VLA-7B**](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B): Generates precise, descriptive image captions highlighting visual properties, object attributes, and scene details. Qwen2.5-VL architecture. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/deepcaption-attr-68b041172ebcb867e45c556a)
+* [**Camel-Doc-OCR**](https://huggingface.co/prithivMLmods/Camel-Doc-OCR-080125): Document retrieval, content extraction, and analysis built on Qwen2.5-VL-7B. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/multimodal-vlms-until-july25-688312e6b840e1e156f13027)
+* [**SigLIP2-0.1B-DownStream**](https://huggingface.co/models?pipeline_tag=image-classification&sort=trending&search=prithivMLmods): Domain-specific image classification models fine-tuned from siglip2 for multi-label tasks. [\[Base\]](https://huggingface.co/google/siglip2-base-patch16-224)
+* [**Lumian2-VLR-7B**](https://huggingface.co/prithivMLmods/Lumian2-VLR-7B-Thinking): Experimental VLM for fine-grained multimodal reasoning, image/video captioning, and document comprehension with explainable step-by-step reasoning. Built on Qwen2.5-VL-7B-Instruct. [\[Demo\]](https://huggingface.co/spaces/prithivMLmods/Qwen2.5-VL-Outpost)
 
 ## 💀 Archived Models
 
@@ -31,5 +39,6 @@ Hi, I'm a Machine Learning Engineer, Hugging Face Fellow ML 🤗, Computer Visio
 
 * [**Stranger Zone**](https://huggingface.co/strangerzonehf): Illustration adapters for diffusion models, 2M+ downloads. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/flux-lora-collections-66dd5908be2206cfaa8519be)
 * [**Stranger Guard**](https://huggingface.co/strangerguardhf): Image safety-guard models, 10k+ downloads. [\[Collection\]](https://huggingface.co/collections/strangerguardhf/safety-models-68d3afbdc5b52d314608d617)
+
 
 
