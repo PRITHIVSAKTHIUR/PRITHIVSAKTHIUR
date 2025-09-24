@@ -8,5 +8,6 @@
 </div>
 <br/>
 
-Hi, I'm a Machine Learning Engineer, Hugging Face Fellow ML 🤗, Computer Vision Enthusiast, into LLM and Multimodal Optimizations.
+Hi, I'm a Machine Learning Engineer, Hugging Face Fellow ML 🤗, Computer Vision Enthusiast.
+
 
