@@ -26,7 +26,7 @@ Hi, I'm a Machine Learning Engineer, Hugging Face Fellow ML 🤗, Computer Visio
 * [**DeepCaption-VLA-7B**](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B): Generates precise, descriptive image captions highlighting visual properties, object attributes. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/deepcaption-attr-68b041172ebcb867e45c556a)
 * [**Camel-Doc-OCR**](https://huggingface.co/prithivMLmods/Camel-Doc-OCR-080125): Document retrieval, content extraction, and analysis. (v2 080125) [\[Collection\]](https://huggingface.co/collections/prithivMLmods/multimodal-vlms-until-july25-688312e6b840e1e156f13027)
 * [**SigLIP2-0.1B-DownStream**](https://huggingface.co/models?pipeline_tag=image-classification&sort=trending&search=prithivMLmods): Domain-specific image classification models fine-tuned from siglip2 for multi-label tasks. [\[Base\]](https://huggingface.co/google/siglip2-base-patch16-224)
-* [**Lumian2-VLR-7B**](https://huggingface.co/prithivMLmods/Lumian2-VLR-7B-Thinking): VLM for fine-grained multimodal reasoning, image/video captioning, and document comprehension with explainable step-by-step reasoning. [\[Demo\]](https://huggingface.co/spaces/prithivMLmods/Qwen2.5-VL-Outpost)
+* [**Lumian2-VLR-7B**](https://huggingface.co/prithivMLmods/Lumian2-VLR-7B-Thinking): VLM for fine-grained multimodal reasoning, image/video captioning, and document comprehension with explainable step-by-step reasoning. [\[Demo\]](https://huggingface.co/spaces/prithivMLmods/Multimodal-VLM-Thinking)
 
 ## 💀 Archived Models
 
@@ -41,3 +41,4 @@ Hi, I'm a Machine Learning Engineer, Hugging Face Fellow ML 🤗, Computer Visio
 * [**Stranger Vision**](https://huggingface.co/strangervisionhf): Community for model modification and experimentation, < 1K downloads. [\[Collection\]](https://huggingface.co/collections/strangervisionhf/october-2025-models)
 * [**Stranger Zone**](https://huggingface.co/strangerzonehf): Illustration adapters for diffusion models, 2M+ downloads. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/flux-lora-collections-66dd5908be2206cfaa8519be)
 * [**Stranger Guard**](https://huggingface.co/strangerguardhf): Image safety-guard models, 10k+ downloads. [\[Collection\]](https://huggingface.co/collections/strangerguardhf/safety-models-68d3afbdc5b52d314608d617)
+
