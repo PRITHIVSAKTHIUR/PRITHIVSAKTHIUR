@@ -41,4 +41,4 @@ Hi, I'm a Machine Learning Engineer, Hugging Face Fellow ML 🤗, Computer Visio
 * [**Stranger Vision**](https://huggingface.co/strangervisionhf): Community for model modification and experimentation, < 1K downloads. [\[Collection\]](https://huggingface.co/collections/strangervisionhf/october-2025-models)
 * [**Stranger Zone**](https://huggingface.co/strangerzonehf): Illustration adapters for diffusion models, 2M+ downloads. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/flux-lora-collections-66dd5908be2206cfaa8519be)
 * [**Stranger Guard**](https://huggingface.co/strangerguardhf): Image safety-guard models, 10k+ downloads. [\[Collection\]](https://huggingface.co/collections/strangerguardhf/safety-models-68d3afbdc5b52d314608d617)
-
+* [**Stranger Operations**](https://huggingface.co/strangeropshf): Model Fostering, Operations, and Cycle
