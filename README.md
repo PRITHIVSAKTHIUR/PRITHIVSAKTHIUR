@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
     🤗 <a href="https://huggingface.co/prithivMLmods">Hugging Face</a> •
-    𝕏 <a href="https://x.com/prithiv_003">Follow me on X</a> •  
+    𝕏 <a href="https://x.com/prithivMLmods">Follow me on X</a> •  
     💻 <a href="https://www.kaggle.com/prithivsakthiur">Kaggle</a> • 
     📙 <a href="https://github.com/PRITHIVSAKTHIUR/Multimodal-Outpost-Notebooks">Multimodal Outpost</a> •
     ⚡ <a href="https://gist.github.com/PRITHIVSAKTHIUR/">Gist</a>
