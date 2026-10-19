@@ -26,6 +26,7 @@ Hi, I'm a Machine Learning Engineer, Hugging Face Fellow ML 🤗, Computer Visio
 
 ## 🤗 New Models
 
+* [**OneDecision-VisionGuard-27B-SFT**](https://huggingface.co/prithivMLmods/OneDecision-VisionGuard-27B-SFT): OneDecision-VisionGuard-27B-SFT is a dense 27B multimodal model based on Qwen/Qwen3.8-27B, designed to classify images as Safe or NSFW.[\[Collection\]](https://huggingface.co/collections/prithivMLmods/onedecision-visionguard)
 * [**Gliese-OCR-7B-Post1.0**](https://huggingface.co/prithivMLmods/Gliese-OCR-7B-Post1.0): Enhanced document retrieval, content extraction, and analysis, built on Camel-Doc-OCR-062825.[\[Collection\]](https://huggingface.co/collections/prithivMLmods/gliese-post10-68c52c4a6ca4935f5259a6d7)
 * [**DeepCaption-VLA-7B**](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B): Generates precise, descriptive image captions highlighting visual properties, object attributes. [\[Collection\]](https://huggingface.co/collections/prithivMLmods/deepcaption-attr-68b041172ebcb867e45c556a)
 * [**Camel-Doc-OCR**](https://huggingface.co/prithivMLmods/Camel-Doc-OCR-080125): Document retrieval, content extraction, and analysis. (v2 080125) [\[Collection\]](https://huggingface.co/collections/prithivMLmods/multimodal-vlms-until-july25-688312e6b840e1e156f13027)
